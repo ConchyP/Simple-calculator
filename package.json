@@ -1,0 +1,22 @@
+{
+  "name": "simple-calculator",
+  "version": "1.0.0",
+  "description": "simple calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConchyP/Simple-calculator.git"
+  },
+  "author": "Conchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConchyP/Simple-calculator/issues"
+  },
+  "homepage": "https://github.com/ConchyP/Simple-calculator#readme",
+  "dependencies": {
+    "vitest": "^1.6.0"
+  }
+}
